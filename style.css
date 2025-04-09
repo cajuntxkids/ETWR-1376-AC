@@ -56,7 +56,7 @@ dd {
 .home-button {
   position: fixed;
   bottom: 20px;
-  right: 20px;
+  left: 20px; /* from right to left */
   background-color: #007BFF;
   color: white;
   padding: 10px 15px;
@@ -70,3 +70,4 @@ dd {
 .home-button:hover {
   background-color: #0056b3;
 }
+
